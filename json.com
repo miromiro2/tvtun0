@@ -26,6 +26,46 @@
         ]
      }
 	    ,
+	     	 {
+        "title":"Jawhara FM",
+        "provider":"youtube",
+        "arguments":[
+          "UCXowBzuwUrjfRt68d5VphAg",
+          "channel"
+
+        ]
+     }
+	    ,
+	     	 {
+        "title":"SHEMS FM",
+        "provider":"youtube",
+        "arguments":[
+          "UC86_SACI1Iktbm3IEwHPFJg",
+          "channel"
+
+        ]
+     }
+	    ,
+	     	 {
+        "title":"Express FM",
+        "provider":"youtube",
+        "arguments":[
+          "UCsaqqAo0mZZIgdPjydZixMg",
+          "channel"
+
+        ]
+     }
+	    ,
+	     	 {
+        "title":"Attessia TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCQS3ejF2jBAhwmbGD9Q3oeA",
+          "channel"
+
+        ]
+     }
+	    ,
      {
         "title":"الوطنية Replays",
         "provider":"youtube",
