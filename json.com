@@ -187,7 +187,86 @@
      }
 	    ]
 		}
-	,	
+	,
+	 {
+		"title": "رابط 1 مباشر",
+		"drawable": "",
+		"submenu": " تغطية لجلّ المباريات ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://kora-online.tv/"
+			]
+		}]
+	},
+ {
+		"title": "رابط 2 مباشر",
+		"drawable": "",
+		"submenu": " ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.as-koora.com/?fbclid=IwAR0QbdP3-9ygfmS9Fxmz5cbRGZ4OLSnz7BcBE7ZhmsJwtPeT2C3f9uWIihM"
+			]
+		}]
+	},
+ {
+		"title": "رابط 3 مباشر",
+		"drawable": "",
+		"submenu": "جودة عالية ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+			]
+		}]
+	},
+ {
+		"title": "رابط 4 مباشر",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.kooora2day.com//"
+			]
+		}]
+	},
+ {
+		"title": "رابط 5 مباشر",
+		"drawable": "",
+		"submenu": " تغطية لجلّ المباريات ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.kora-star.tv/"
+			]
+		}]
+	},
+ 
+ {
+		"title": "رابط 6 مباشر",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://juventusstream.com/live/"
+			]
+		}]
+	},
 		{
      "title":" أخبار وطنية 1",
     "drawable":"",
