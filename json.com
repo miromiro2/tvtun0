@@ -292,7 +292,21 @@
     ]
 
   }
-	
+{
+   "title":"MBC 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.tunisvista.com/medias/mbc-2-tv-live-online-streaming.html"        ]
+      }
+    ]
+
+  },	
 	    ,
 	 {
    "title":"France 24 Ar",
