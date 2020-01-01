@@ -106,16 +106,47 @@
         ]
      }
 	         ,
-	 {
-        "title":"Hannibal TV",
+		  {
+        "title":"Zitouna TV",
         "provider":"youtube",
         "arguments":[
-          "UCW7MhIFzZtsVe7ud36PvNeA",
+          "UCGtFpP5z1FWT0P-FrfaFk_Q",
           "channel"
 
         ]
      }
 	      ,
+	       {
+        "title":"HANNIBAL TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCMowjs_MJ-oIWEeHUu3DrOQ",
+          "channel"
+
+        ]
+     }
+	      ,
+	       {
+        "title":"Carthage Plus",
+        "provider":"youtube",
+        "arguments":[
+          "UCGUJmSULytsw0igdrXvo7mw",
+          "channel"
+
+        ]
+     }
+	      ,
+		  {
+        "title":"foot24",
+        "provider":"youtube",
+        "arguments":[
+          "UCuPDFRItTEn34XWqAcdCgNg",
+          "channel"
+
+        ]
+     }
+	      ,
+	
 	 {
         "title":"الجزيرة",
         "provider":"youtube",
@@ -188,10 +219,188 @@
 	    ]
 		}
 	,
+	
+	 {
+   "title":"الوطنية 1",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
+	 {
+   "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpi6k7ycw_r3wVYHooTu1MTA",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	 
+	 
+	    ,
+	
+	    
+{
+   "title":"Nessma TV",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.nessma.tv/fr/live"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"ElHiwar Ettounsi",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://elhiwarettounsi.com/live.html"        ]
+      }
+    ]
+
+  }
+	
+	    ,
+	 {
+   "title":"France 24 Ar",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"France 24 Ar",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmphb3aZUCNMzthlZOP3ONKXX",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	  ,
+	 {
+   "title":"France 24 Fr",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"France 24 Fr",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgsR0u8rejodNEwpMpKWLkS",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	,
+		 {
+   "title":"الجزيرة",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
+	 {
+   "title":"Arabia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.alarabiya.net/live-stream.html"        ]
+      }
+    ]
+
+  },
+		
+		 {
+   "title":"Sky News Arabia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.skynewsarabia.com/livestream-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"BFM TV",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.bfmtv.com/mediaplayer/live-video/"        ]
+      }
+    ]
+
+  },
 	 {
 		"title": "رابط 1 مباشر",
 		"drawable": "",
-		"submenu": " تغطية لجلّ المباريات ",
+		"submenu": "مباريات كرة القدم ",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
@@ -415,186 +624,7 @@
       }
     ]
 
-  },
-	
-	 {
-   "title":"الوطنية 1",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	    ,
-	 {
-   "title":"الوطنية 2",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpi6k7ycw_r3wVYHooTu1MTA",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	 
-	 
-	    ,
-	
-	    
-{
-   "title":"Nessma TV",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.nessma.tv/fr/live"        ]
-      }
-    ]
-
-  },
-		 {
-   "title":"ElHiwar Ettounsi",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://elhiwarettounsi.com/live.html"        ]
-      }
-    ]
-
-  }
-	
-	    ,
-	 {
-   "title":"France 24 Ar",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"France 24 Ar",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmphb3aZUCNMzthlZOP3ONKXX",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	  ,
-	 {
-   "title":"France 24 Fr",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"France 24 Fr",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpgsR0u8rejodNEwpMpKWLkS",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	,
-		 {
-   "title":"الجزيرة",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	    ,
-	 {
-   "title":"Arabia",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.alarabiya.net/live-stream.html"        ]
-      }
-    ]
-
-  },
-		
-		 {
-   "title":"Sky News Arabia",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.skynewsarabia.com/livestream-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1"        ]
-      }
-    ]
-
-  },
-		 {
-   "title":"BFM TV",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-"https://www.bfmtv.com/mediaplayer/live-video/"        ]
-      }
-    ]
-
-  },
-	 
+  }, 
 	
 		{
      "title":" REPLAYS",
