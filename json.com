@@ -291,7 +291,23 @@
       }
     ]
 
-  }
+  },
+  
+		 {
+   "title":"Attassia Tv",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://iptv-planet.com/attassia.html"        ]
+      }
+    ]
+
+  },
 {
    "title":"MBC 2",
     "drawable":"",
@@ -306,7 +322,7 @@
       }
     ]
 
-  },	
+  }	
 	    ,
 	 {
    "title":"France 24 Ar",
