@@ -260,7 +260,21 @@
 	 
 	 
 	    ,
-	
+{
+   "title":"قلب الذيب",
+    "drawable":"",
+    "submenu":"مسلسلات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://medooappli.xyz/ramadan.html"        ]
+      }
+    ]
+
+  },	
 	    
 {
    "title":"Nessma TV",
