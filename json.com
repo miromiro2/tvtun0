@@ -219,47 +219,53 @@
 	    ]
 		}
 	,
+	 {
+   "title":"Wataniya 1",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.watania1.tn/"     ]
+      }
+    ]
+
+  },
 	
 	 {
-   "title":"الوطنية 1",
+   "title":"Wataniya 2",
     "drawable":"",
     "submenu":"بث مباشر",
     "iap":false,
     "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
+      {
+        "title":"WebView",
+        "provider":"webview",
         "arguments":[
-          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
-          "playlist"
+"http://www.watania2.tn/"     ]
+      }
+    ]
 
-        ]
-     }
-	 ]
-
-  }
-	    ,
-	 {
-   "title":"الوطنية 2",
+  },
+  
+  {
+   "title":"إعادات",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"",
     "iap":false,
     "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
+      {
+        "title":"WebView",
+        "provider":"webview",
         "arguments":[
-          "PLpuTkbiVtmpi6k7ycw_r3wVYHooTu1MTA",
-          "playlist"
+"http://replay.tunisiatv.tn/"        ]
+      }
+    ]
 
-        ]
-     }
-	 ]
-
-  }
-	 
-	 
-	    ,
+  },
 {
    "title":"قلب الذيب",
     "drawable":"",
